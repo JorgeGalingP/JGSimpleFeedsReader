@@ -13,4 +13,8 @@ A simple feeds reader app for iphone. Only for practice parsing data.
 #Used Images
 All images used: http://www.appdesignvault.com/navbars/
 
+#Information
+If you have this problem, error: PCH file built from a different branch ((clang-425.0.27)) than the compiler ((clang-425.0.28))
+1 error generated, only do CMD+SHIFT+K and clean the project.
+
 Personal Twitter: @JorgeGalingP
