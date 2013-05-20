@@ -9,3 +9,5 @@ Used libraries:
 -libxml2.dylib
 
 All images used: http://www.appdesignvault.com/navbars/
+
+Personal Twitter: @JorgeGalingP
